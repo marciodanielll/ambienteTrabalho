@@ -2,7 +2,6 @@
 
 sudo clear
 sudo apt update && sudo apt upgrade -y && sudo apt autoremove -y && sudo apt -f install
-sudo apt install git -y
 echo "---------------------------------------------------------------------------"
 echo -e "-> \e[01;32mUPDAT E UPGRADE FINALIZADOS\e[00m"
 echo "---------------------------------------------------------------------------"
