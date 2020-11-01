@@ -57,17 +57,24 @@ sleep 4
 # code --list-extensions | xargs -L 1 echo code --install-extension 
 code --install-extension abusaidm.html-snippets
 code --install-extension adpyke.codesnap
+code --install-extension ajhyndman.jslint
 code --install-extension CoenraadS.bracket-pair-colorizer
+code --install-extension dbaeumer.jshint
 code --install-extension ecmel.vscode-html-css
 code --install-extension EditorConfig.EditorConfig
 code --install-extension FallenMax.mithril-emmet
 code --install-extension formulahendry.code-runner
 code --install-extension foxundermoon.shell-format
 code --install-extension HookyQR.beautify
+code --install-extension kisstkondoros.vscode-codemetrics
 code --install-extension monokai.theme-monokai-pro-vscode
+code --install-extension PKief.material-icon-theme
 code --install-extension ritwickdey.LiveServer
+code --install-extension VisualStudioExptTeam.vscodeintellicode
 code --install-extension vscode-icons-team.vscode-icons
 code --install-extension xabikos.JavaScriptSnippets
+md@md-To-be-filled-by-O-E-M:~$ ^C
+
 
 echo "---------------------------------------------------------------------------"
 echo -e "-> \e[01;32mEXTENSÕES DO VS-CODE INSTALADAS\e[00m"
