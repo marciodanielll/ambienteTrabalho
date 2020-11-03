@@ -73,8 +73,6 @@ code --install-extension ritwickdey.LiveServer
 code --install-extension VisualStudioExptTeam.vscodeintellicode
 code --install-extension vscode-icons-team.vscode-icons
 code --install-extension xabikos.JavaScriptSnippets
-md@md-To-be-filled-by-O-E-M:~$ ^C
-
 
 echo "---------------------------------------------------------------------------"
 echo -e "-> \e[01;32mEXTENSÕES DO VS-CODE INSTALADAS\e[00m"
