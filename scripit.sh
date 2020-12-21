@@ -56,20 +56,22 @@ sleep 4
 #Extensões vs-code
 # code --list-extensions | xargs -L 1 echo code --install-extension 
 code --install-extension abusaidm.html-snippets
-code --install-extension adpyke.codesnap
 code --install-extension ajhyndman.jslint
-code --install-extension CoenraadS.bracket-pair-colorizer
+code --install-extension CoenraadS.bracket-pair-colorizer-2
 code --install-extension dbaeumer.jshint
 code --install-extension dbaeumer.vscode-eslint
+code --install-extension dracula-theme.theme-dracula
 code --install-extension ecmel.vscode-html-css
-code --install-extension EditorConfig.EditorConfig
+code --install-extension esbenp.prettier-vscode
 code --install-extension FallenMax.mithril-emmet
+code --install-extension formulahendry.auto-rename-tag
 code --install-extension formulahendry.code-runner
 code --install-extension foxundermoon.shell-format
-code --install-extension HookyQR.beautify
 code --install-extension kisstkondoros.vscode-codemetrics
-code --install-extension monokai.theme-monokai-pro-vscode
+code --install-extension ms-vscode-remote.remote-wsl
 code --install-extension ritwickdey.LiveServer
+code --install-extension streetsidesoftware.code-spell-checker
+code --install-extension streetsidesoftware.code-spell-checker-portuguese
 code --install-extension VisualStudioExptTeam.vscodeintellicode
 code --install-extension vscode-icons-team.vscode-icons
 code --install-extension xabikos.JavaScriptSnippets
