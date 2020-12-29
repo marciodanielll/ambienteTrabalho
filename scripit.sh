@@ -53,14 +53,6 @@ echo -e "-> \e[01;32mVS-CODE INSTALADO\e[00m"
 echo "---------------------------------------------------------------------------"
 sleep 4 
 
-#Code-Climate and Docker
-sudo apt install apt-transport-https ca-certificates curl software-properties-common -y
-
-echo "---------------------------------------------------------------------------"
-echo -e "-> \e[01;32mEXTENSÕES DO VS-CODE INSTALADAS\e[00m"
-echo "---------------------------------------------------------------------------"
-sleep 4 
-
 #VLC
 sudo apt install vlc -y
 echo "---------------------------------------------------------------------------"
