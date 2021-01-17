@@ -96,8 +96,8 @@ sleep 4
 
 #GnomeShell Themes and Icons
 sudo apt install gnome-tweak-tool -y
-git clone https://github.com/marciodanielll/iconsThemes.git
-git clone https://github.com/marciodanielll/gnomeShellThemes.git
+# git clone https://github.com/marciodanielll/iconsThemes.git
+# git clone https://github.com/marciodanielll/gnomeShellThemes.git
 # mkdir -p ~/.icons && mkdir -p ~/.themes
 # cp -r iconsThemes/* ~/.icons
 # cp -r gnomeShellThemes/* ~/.themes
