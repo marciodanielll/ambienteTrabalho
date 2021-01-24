@@ -96,11 +96,10 @@ sleep 4
 
 #GnomeShell Themes and Icons
 sudo apt install gnome-tweak-tool -y
-# git clone https://github.com/marciodanielll/iconsThemes.git
-# git clone https://github.com/marciodanielll/gnomeShellThemes.git
-# mkdir -p ~/.icons && mkdir -p ~/.themes
-# cp -r iconsThemes/* ~/.icons
-# cp -r gnomeShellThemes/* ~/.themes
-# echo "---------------------------------------------------------------------------"
-# echo -e "-> \e[01;32m.ICONS E .THEMES INSTALADOS\e[00m"
-# echo "---------------------------------------------------------------------------"
+git clone https://github.com/daniruiz/flat-remix
+git clone https://github.com/daniruiz/flat-remix-gtk
+mkdir -p ~/.icons && mkdir -p ~/.themes
+cp -r flat-remix/Flat-Remix* ~/.icons/ && cp -r flat-remix-gtk/Flat-Remix-GTK* ~/.themes/
+echo "---------------------------------------------------------------------------"
+echo -e "-> \e[01;32m.ICONS, TWEAK e THEMES INSTALADOS\e[00m"
+echo "---------------------------------------------------------------------------"
