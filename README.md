@@ -1,1 +1,3 @@
-Shellscript that installs my most used tools on a daily basis.
+
+Simple script that installs my most used tools on a daily basis.
+
