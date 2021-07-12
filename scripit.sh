@@ -23,13 +23,3 @@ cp -r flat-remix/Flat-Remix* ~/.icons/ && cp -r flat-remix-gtk/Flat-Remix-GTK* ~
 echo "---------------------------------------------------------------------------"
 echo -e "-> \e[01;32m.ICONS, TWEAK e THEMES INSTALADOS\e[00m"
 echo "---------------------------------------------------------------------------"
-sleep 4 
-
-#Blueman-Manager Bluetooth
-sudo apt-get install bluetooth bluez bluez-tools rfkill -y
-sudo apt-get install blueman -y && blueman-managerecho "---------------------------------------------------------------------------"
-echo -e "-> \e[01;32m. BLUEMAN-MENAGER INSTALAD\e[00m"
-echo "---------------------------------------------------------------------------"
-
-
-
